@@ -1,0 +1,4 @@
+#Wed Jun 12 09:47:12 IRDT 2019
+base.0=E\:\\Flutter Projects\\Telegram\\telegram\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
